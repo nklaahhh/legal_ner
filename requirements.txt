@@ -1,6 +1,6 @@
 spacy
-streamlit
 numpy==1.22.4
 pandas
 scipy
-distutils
+streamlit==1.0.0
+python3-distutils==3.8
