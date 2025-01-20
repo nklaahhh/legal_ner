@@ -3,7 +3,6 @@ numpy==1.22.4
 pandas
 scipy
 streamlit==1.0.0
-python3-distutils==3.8
 setuptools>=65.5.1
 wheel
 streamlit
@@ -11,4 +10,6 @@ matplotlib
 setuptools>=65.5.1
 python3-distutils
 build-essential
+pip install python3-distutils
+
 
