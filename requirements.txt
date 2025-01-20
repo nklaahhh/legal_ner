@@ -2,7 +2,7 @@ spacy==3.8.4
 numpy==1.22.4
 pandas
 scipy
-pip install streamlit
+pip install --upgrade pip
 wheel
 streamlit
 matplotlib
