@@ -2,8 +2,7 @@ spacy==3.8.4
 numpy==1.22.4
 pandas
 scipy
-streamlit==1.0.0
-setuptools>=65.5.1
+pip install streamlit
 wheel
 streamlit
 matplotlib
