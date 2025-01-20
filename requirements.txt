@@ -9,4 +9,5 @@ wheel
 streamlit
 matplotlib
 setuptools>=65.5.1
+python3-distutils
 
