@@ -8,3 +8,5 @@ etuptools>=65.5.1
 wheel
 streamlit
 matplotlib
+setuptools>=65.5.1
+
