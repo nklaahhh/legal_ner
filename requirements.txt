@@ -4,7 +4,7 @@ pandas
 scipy
 streamlit==1.0.0
 python3-distutils==3.8
-etuptools>=65.5.1
+setuptools>=65.5.1
 wheel
 streamlit
 matplotlib
